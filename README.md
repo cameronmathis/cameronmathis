@@ -1,4 +1,4 @@
-## Hi my name is Cameron Mathis
+## Hi, my name is Cameron Mathis
 
 - I am a full-time Software Engineer with NCR Corporation.
 - I am always working on side projects to test and grow my knowledge.
