@@ -1,6 +1,6 @@
 ## Hi, my name is Cameron Mathis
 
-- I am a full-time Software Engineer with NCR Corporation.
+- I am a full-time Software Engineer with [NCR Corporation].
 - I am always working on side projects to test and grow my knowledge.
 - My resume can be viewed at [this link](https://cameronmathis.github.io/Resume/) or downloaded from [this repository](https://github.com/cameronmathis/Resume).
 - You can reach me at my email: cmmathis98@gmail.com
@@ -34,6 +34,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
+[NCR Corporation]: https://ncr.com
 [Portfolio]: https://github.com/cameronmathis/Portfolio
 [linkedin]: https://www.linkedin.com/in/cameron-mathis-992a56195
 [twitter]: https://twitter.com/YesCLMAT
