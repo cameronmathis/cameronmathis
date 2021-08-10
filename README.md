@@ -36,6 +36,6 @@
 
 [NCR Corporation]: https://ncr.com
 [Portfolio]: https://github.com/cameronmathis/Portfolio
-[linkedin]: https://www.linkedin.com/in/cameron-mathis-992a56195
+[linkedin]: https://www.linkedin.com/in/cameronmathis
 [twitter]: https://twitter.com/YesCLMAT
 [instagram]: https://instagram.com/_cameronm_
