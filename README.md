@@ -2,7 +2,7 @@
 
 - I am a full-time Software Engineer with [NCR Corporation].
 - I am always working on side projects to test and grow my knowledge.
-- My resume can be viewed at [this link](https://cameronmathis.github.io/Resume/) or downloaded from [this repository](https://github.com/cameronmathis/Resume).
+- My resume can be viewed at [this link](https://cameronmathis.github.io/Resume/) or downloaded from [this repository](https://github.com/cameronmathis/Resume/blob/main/Cameron%20Mathis%20Resume.pdf).
 - You can reach me at my email: cmmathis98@gmail.com
 - A project I am currently working on can be found in my [Portfolio] repository!
 
