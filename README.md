@@ -2,9 +2,10 @@
 
 - I am a full-time Software Engineer with [NCR Corporation].
 - I am always working on side projects to test and grow my knowledge.
-- My resume can be viewed at [this link](https://cameronmathis.github.io/Resume/) or downloaded from [this repository](https://github.com/cameronmathis/Resume/blob/main/Cameron%20Mathis%20Resume.pdf).
+- My current portfolio can be found [here].
+- My resume can be viewed at [this link] or downloaded from [this repository].
+- A project I am currently working on can be found in my [RockPaperScissors-React repository]!
 - You can reach me at my email: cmmathis98@gmail.com
-- A project I am currently working on can be found in my [Portfolio] repository!
 
 <p> 
   <img src="https://github-readme-stats.vercel.app/api?username=cameronmathis&show_icons=true" alt="cameronmathis" />
@@ -39,7 +40,10 @@
 
 
 [NCR Corporation]: https://ncr.com
-[Portfolio]: https://github.com/cameronmathis/Portfolio
+[here]: https://cameronmathis.github.io/Portfolio/
+[this link]: https://cameronmathis.github.io/Resume/
+[this repository]: https://github.com/cameronmathis/Resume/blob/main/Cameron%20Mathis%20Resume.pdf
+[RockPaperScissors-React repository]: https://github.com/cameronmathis/RockPaperScissors-React
 [linkedin]: https://www.linkedin.com/in/cameronmathis
 [twitter]: https://twitter.com/YesCLMAT
 [instagram]: https://instagram.com/_cameronm_
