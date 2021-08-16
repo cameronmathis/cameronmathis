@@ -4,7 +4,7 @@
 - I am always working on side projects to test and grow my knowledge.
 - My current portfolio can be found [here].
 - My resume can be viewed at [this link] or downloaded from [this repository].
-- A project I am currently working on can be found in my [RockPaperScissors-React repository]!
+- A project I am currently working on can be found in my [SuperChat repository]!
 - You can reach me at my email: cmmathis98@gmail.com
 
 <p> 
@@ -43,7 +43,7 @@
 [here]: https://cameronmathis.github.io/Portfolio/
 [this link]: https://cameronmathis.github.io/Resume/
 [this repository]: https://github.com/cameronmathis/Resume/blob/main/Cameron%20Mathis%20Resume.pdf
-[RockPaperScissors-React repository]: https://github.com/cameronmathis/RockPaperScissors-React
+[SuperChat repository]: https://github.com/cameronmathis/SuperChat
 [linkedin]: https://www.linkedin.com/in/cameronmathis
 [twitter]: https://twitter.com/YesCLMAT
 [instagram]: https://instagram.com/_cameronm_
