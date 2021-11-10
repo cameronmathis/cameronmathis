@@ -1,9 +1,9 @@
 ## Hi, my name is Cameron Mathis
 
 - I am a full-time Software Engineer with [NCR Corporation].
-- I am always working on side projects to test and grow my knowledge.
 - My current portfolio can be found [here].
 - My resume can be viewed at [this link] or downloaded from [this repository].
+- I am always working on side projects to test and grow my knowledge.
 - A project I am currently working on can be found in my [Contact Management System] repository!
 - You can reach me at my email: cmmathis98@gmail.com
 
