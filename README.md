@@ -4,7 +4,7 @@
 - My current portfolio can be found [here].
 - My resume can be viewed at [this link] or downloaded from [this repository].
 - I am always working on side projects to test and grow my knowledge.
-- A project I am currently working on can be found in my [NFTBoys] repository!
+- A project I am currently working on can be found in my [ChurchSites] repository!
 - You can reach me at my email: cmmathis98@gmail.com
 
 <p> 
@@ -43,7 +43,7 @@
 [here]: https://cameronmathis.github.io/Portfolio/
 [this link]: https://cameronmathis.github.io/Resume/
 [this repository]: https://github.com/cameronmathis/Resume/blob/main/Cameron%20Mathis%20Resume.pdf
-[NFTBoys]: https://github.com/cameronmathis/NFTBoys
+[ChurchSites]: https://github.com/cameronmathis/ChurchSites
 [linkedin]: https://www.linkedin.com/in/cameronmathis
 [twitter]: https://twitter.com/YesCLMAT
 [instagram]: https://instagram.com/_cameronm_
