@@ -4,13 +4,12 @@
 - My current portfolio can be found [here].
 - My resume can be viewed at [this link] or downloaded from [this repository].
 - I am always working on side projects to test and grow my knowledge.
-- A project I am currently working on can be found in my [ChurchSites] repository!
+- A project I am currently working on can be found in my [tac.io] repository!
 - You can reach me at my email: cmmathis98@gmail.com
 
-<p> 
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=cameronmathis&show_icons=true" alt="cameronmathis" />
 </p>
-
 
 ### Languages and Tools:
 
@@ -24,7 +23,6 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -36,14 +34,12 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[NCR Corporation]: https://ncr.com
+[ncr corporation]: https://ncr.com
 [here]: https://cameronmathis.github.io/Portfolio/
 [this link]: https://cameronmathis.github.io/Resume/
 [this repository]: https://github.com/cameronmathis/Resume/blob/main/Cameron%20Mathis%20Resume.pdf
-[ChurchSites]: https://github.com/cameronmathis/ChurchSites
+[tac.io]: https://github.com/cameronmathis/tac.io
 [linkedin]: https://www.linkedin.com/in/cameronmathis
 [twitter]: https://twitter.com/YesCLMAT
 [instagram]: https://instagram.com/_cameronm_
