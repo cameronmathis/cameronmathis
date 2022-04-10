@@ -35,7 +35,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [ncr corporation]: https://ncr.com
-[here]: https://cameronmathis.github.io/Portfolio/
+[here]: https://cameronmathis.github.io/
 [this link]: https://cameronmathis.github.io/Resume/
 [this repository]: https://github.com/cameronmathis/Resume/blob/main/Cameron%20Mathis%20Resume.pdf
 [tac.io]: https://github.com/cameronmathis/tac.io
