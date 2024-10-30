@@ -1,6 +1,6 @@
 ## Hi, my name is Cameron Mathis
 
-- I am a full-time Software Engineer with [NCR Corporation].
+- I am a full-time Software Engineer with [Deloitte].
 - My current portfolio can be found [here].
 - My resume can be viewed at [this link] or downloaded from [this repository].
 - I am always working on side projects to test and grow my knowledge!
@@ -33,7 +33,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[ncr corporation]: https://www.ncr.com/banking/digital-banking
+[deloitte]: https://www2.deloitte.com/us/en/pages/about-deloitte/articles/innovation-that-matters.html
 [here]: https://cameronmathis.github.io/
 [this link]: https://cameronmathis.github.io/Resume/
 [this repository]: https://github.com/cameronmathis/Resume/blob/main/Cameron%20Mathis%20Resume.pdf
